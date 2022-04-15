@@ -1,6 +1,8 @@
 # BikeShare_Demand_Prediction
 Predicting bike-share demand pattern using Neural Networks. 
 
+Required Packages: Pandas, PyTorch
+
 To read the dataset and clean it, we use *Pandas* library. Also, for training the neural network, we use *PyTorch*.
 
 Data set is available online at 
