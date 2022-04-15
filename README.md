@@ -1,7 +1,7 @@
 # Deep_Learning_Projects
 
 
-In this repository, I implemetation different deep learning algorithms and architectures for various applications such as stock price prediction, recommender systems, etc.
+In this repository, I implemetation different deep learning algorithms and architectures for various applications such as stock price prediction, recommender systems, neural style transfer, etc.
 
 
 **[1] Simple Movie Recommender System using KNN**
