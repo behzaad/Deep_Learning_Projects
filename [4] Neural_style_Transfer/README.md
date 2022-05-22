@@ -26,5 +26,3 @@ After training the network, the resulting image would be:
 <img width="255" alt="sample result" src="https://user-images.githubusercontent.com/37718565/162112875-2254b4a2-a413-49f8-85fd-0b1bef823cd4.png">
 </p>
 This shows that the features of the style image is transferred to the original image. 
-
-To write this code, I used the instructions in ["Deep Learning with PyTorch : Neural Style Transfer"](https://www.coursera.org/projects/deep-learning-with-pytorch-neural-style-transfer) project. 
